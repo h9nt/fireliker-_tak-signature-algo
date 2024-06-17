@@ -24,7 +24,7 @@ function encrypt(string) {
   function reverseArray(string) { // v
     var b = "";
     for (var c = 0; c < string.length * 32; c += 8) {
-      b += String.fromCharCode(string[c >> 5] >>> c % 32 & 255);
+      b += string.fromCharCode(string[c >> 5] >>> c % 32 & 255);
     }
     return b;
   }
