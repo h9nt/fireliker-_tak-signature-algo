@@ -11,8 +11,6 @@ A generated token will look like this:
 ```bash
 _tak token: aaa7b89e219baeaccd8a297d8b153eaa.a64f43a2
 ```
-a valid tak token will generated here: **https://reverse4free.lol/fireliker/tak_signature/**
-
 <hr>
 
 if fireliker see this, and want a DCMA Takedown request contact me at dev@reverse4free.lol
