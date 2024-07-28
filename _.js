@@ -101,7 +101,7 @@ function o(a) {
 function get_tac() {
   try {
     const _tac = t;
-    document.getElementById('_tac').innerHTML = _tac;
+    console.log(_tac);
   } catch (error) {
     return;
   }
